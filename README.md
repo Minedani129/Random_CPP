@@ -1,2 +1,2 @@
 # Random_CPP
-A collection of (very) random C++ programs.
+This repository is just a bunch of random c++ programs that I create.
